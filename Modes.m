@@ -4,6 +4,7 @@ close all;                                                                 % clo
 clear;                                                                     % remove all variables from the current workspace
 clc;  
 
+
 %% Read table
 
 ModesTable = readtable(fullfile(extractBefore(pwd,'\00_Programs'),'Armelle','Results modes size distribution.xlsx'),"VariableNamingRule","modify");  
