@@ -47,9 +47,10 @@
 % folder "02_Cleaned raw data\\yyyymmdd", where "yyyymmdd" correspond to 
 % the date of the selected field campaign.
 
-% This script calls 2 Matlab functions to work:
+% This script calls 3 Matlab functions to work:
 % - FindRelevantRawHolograms.m
 % - sortie_recherche.m
+% - Separate2profiles.m
 
 % Some parts of this script and these functions are based on Python scripts
 % developped by Louise Noël du Payrat.
