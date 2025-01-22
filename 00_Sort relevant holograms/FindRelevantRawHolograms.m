@@ -2,8 +2,6 @@ function cleaned_data_idx = FindRelevantRawHolograms(depth,seldate,nom_file,date
 % This function cleans the raw data and only keeps the data that was taken
 % when the LISS-Holo2 was underwater and going downwards
 
-%UNTITLED Summary of this function goes here
-%   Detailed explanation goes here
 
 
 %% Find the index of the 'cleaned' data
